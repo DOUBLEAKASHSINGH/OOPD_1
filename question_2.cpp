@@ -25,7 +25,7 @@ class Tax_calculator {
 
             csv_data = new string*[no_of_records - 1];
             for (int i = 0; i < no_of_records - 1; i++) {
-                csv_data[i] = new string[3]; // 3 columns for year, growth_price, inflation
+                csv_data[i] = new string[3]; // 3 columns for year, growth_price,  inflation
             }
             read_csv.clear();
             read_csv.seekg(0);
