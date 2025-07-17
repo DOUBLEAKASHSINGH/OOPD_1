@@ -32,14 +32,14 @@ _Both question follows same method just a small change in the second question._
   * ./tax_calculator_release
 
 
-# Question 1 - Tax Calculation
+# 1 - Tax Calculation
 #### This part of the program covers the basic calculation of the LTCG tax based on the provided growth and inflation rates. The classes and functions are designed to read the CSV file, compute the selling price, and then compute the LTCG tax based on the difference between the selling price and the original purchase price.
 
 ## Key Features:
 * #### Tax_calculator Class: Handles the parsing of CSV data and computation of the tax.
 
 
-# Question 2 - Tax Calculation with New and Old Scheme 
+# 2 - Tax Calculation with New and Old Scheme 
 #### For the second question, additional features or modifications are implemented on a separate branch in the GitHub repository. This could include extended functionality, performance optimizations, or additional validation features.
 
 ## Key Features:
